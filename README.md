@@ -1,8 +1,9 @@
-# demo_svg
+# Draw SVG files on a Flutter Widget.
 
-A new Flutter project.
+An SVG rendering and widget library for Flutter, which allows painting and displaying Scalable Vector Graphics 1.1 files.
 
 ## Getting Started
+- first
 
 This project is a starting point for a Flutter application.
 
