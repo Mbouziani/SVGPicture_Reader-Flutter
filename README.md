@@ -3,6 +3,8 @@
 An SVG rendering and widget library for Flutter, which allows painting and displaying Scalable Vector Graphics 1.1 files.
 
 ## Getting Started
+- ### Preview of the app
+<img src="https://user-images.githubusercontent.com/82768399/153858630-9b56d191-5875-405f-bad9-c269afee05d0.png" width="400" >
 
 - ### Download this package as a library
  
@@ -50,5 +52,3 @@ An SVG rendering and widget library for Flutter, which allows painting and displ
             child: const CircularProgressIndicator()),
       ),
     ```
-- ### Preview of the app
-<img src="https://user-images.githubusercontent.com/82768399/153858630-9b56d191-5875-405f-bad9-c269afee05d0.png" width="400" >
