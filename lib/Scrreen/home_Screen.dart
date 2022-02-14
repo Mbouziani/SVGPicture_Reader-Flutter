@@ -22,7 +22,7 @@ class HomeScreen extends StatelessWidget {
               width: 40.0,
               height: 40.0,
               //You can color/tint the image like so:
-              color: Colors.green,
+              color: Colors.blue,
             ),
 
             SvgPicture.asset(
